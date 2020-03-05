@@ -1,0 +1,11 @@
+.red {
+  border: 10px dotted red;
+}
+
+.green {
+  border: 10px dashed green;
+}
+
+h2 {
+  color: pink;
+}
